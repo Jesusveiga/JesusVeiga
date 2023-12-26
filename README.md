@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduado en Matemáticas por la Universidad De Santiago de Compostela. <br><br><br>He trabajado en un SaaS como científico de datos. En mi día a día he utilizado herramientas como MySql y he programado en R en su entorno de desarrollo RStudio.<br>También he hecho uso de Python en ciertos proyectos externos al Software. En lo referente al desarrollo web, usé D3.js, para nutrir a partir de los datos, gráficos interactivos que figurarían posteriormente en el SaaS.<br><br>Familiarizado con la metodología SCRUM.<br><br>En este perfil publicaré proyectos personales que iré desarrollando en mi tiempo libre.<br><br>
+Mathematician graduated from the University of Santiago de Compostela. <br><br><br>I have worked in a SaaS as a Data Scientist. In my day to day I have used tools like MySql and I have programmed in R in its development environment RStudio.<br>I have also made use of Python in some projects external to the Software. Regarding web development, I used D3.js, to nurture from the data, interactive graphics that would later appear in the SaaS.<br><br>Familiar with SCRUM methodology.<br><br>In this profile I will publish personal projects that I will be developing in my free time.<br><br>
 
 
 # 💻 Tech Stack:
