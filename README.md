@@ -17,8 +17,5 @@ My work is based on transforming raw data into strategic decisions and deliverin
 ### Other Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusveiga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JesusVeiga&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
