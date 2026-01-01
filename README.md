@@ -1,5 +1,9 @@
 # 👁️‍🗨️About Me:
-Mathematician graduated from the University of Santiago de Compostela. <br><br><br>I have worked in a SaaS as a Data Scientist. In my day to day I have used tools like MySql and I have programmed in R in its development environment RStudio.<br>I have also made use of Python in some projects external to the Software. Regarding web development, I used D3.js, to nurture from the data, interactive graphics that would later appear in the SaaS.<br><br>Familiar with SCRUM methodology.<br><br>In this profile I will publish personal projects that I will be developing in my free time.<br><br>
+I’m a Mathematics graduate with a Master’s in Big Data & Visual Analytics and hands-on experience in data-driven environments. As a Data Consultant at SDG Group and former Data Scientist at Sensesbit, I’ve developed robust ETL pipelines, automated workflows, and extracted actionable insights using tools like Power BI, R, SQL, DBT, and Airflow.
+
+I thrive on solving complex problems, building scalable data solutions, and collaborating across teams using Agile methodologies like SCRUM and LEAN.
+
+My work is based on transforming raw data into strategic decisions and delivering impactful dashboards and predictive models. I’m constantly learning and seeking challenges in analytics, data engineering, and machine learning.<br><br>
 
 
 # 💻 Tech Stack:
